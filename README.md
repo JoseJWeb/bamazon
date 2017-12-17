@@ -40,6 +40,6 @@ Jose Joel Romero [GitHub](https://github.com/JoseJWeb)
 #### License
 ***
 
-Copyright 2017 University of Utah Coding Bootcamp - Jose Joel Romero
+Copyright 2017 University of Utah Coding Bootcamp -  Jose Joel Romero
 
 
